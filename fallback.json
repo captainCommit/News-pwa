@@ -1,0 +1,7 @@
+    "source" : { "id" : "NA", "name": "News App"},
+    "author": "The App Creator",
+    "title": "Sorry You Are Offline",
+    "description": "We can't retrieve data since tou are offline",
+    "url": "",
+    "urlToImage": "test",
+    "publishedAt": ""
